@@ -33,7 +33,5 @@ Three models were evaluated: Logistic Regression, Decision Tree, and Random Fore
 4. **Savings:** Status of existing savings accounts.
 5. **Credit History:** Past payment reliability.
 
-## 🚀 How to Run
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
+
 
