@@ -36,5 +36,5 @@ Three models were evaluated: Logistic Regression, Decision Tree, and Random Fore
 ## 🚀 How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open `Credit_Scoring_Analysis.ipynb` and run all cells.# Credit Scoring Model — CodeAlpha Internship
+3. Open `CodeAlpha_CreditScoringModel.ipynb` and run all cells.
 
